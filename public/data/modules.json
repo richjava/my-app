@@ -1,1 +1,5 @@
-{"modules":[{"displayName":"Introduce","slug":"introduce","description":"Familiarizes users with your product or service","moduleParts":[{"slug":"home-base"}],"required":true}]}
+{"modules":[{"displayName":"Introduce","slug":"introduce","description":"Familiarizes users with your product or service","moduleParts":[{"slug":"home-base"}],"required":true},{
+      "slug": "my-plugin",
+      "repoName": "richjava/my-plugin",
+      "version": "1.0.0"
+    },]}
